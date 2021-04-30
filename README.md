@@ -3,8 +3,8 @@
 https://www.youtube.com/watch?v=HrMb2oZgujE&list=PLNuUvBZGBA8nDTr8QRMgoT_l3XNt_BbWj&index=4 
 
 ## Passos para configuração do git.
-
-$ git init
+<p>
+$ git init <br />
 $ git config --global user.name "Tiago Gomes"
 $ git config --global user.email "tiagogomes187@gmail.com"
 $ git --list
@@ -22,6 +22,7 @@ $ git branch -M main
 $ git remote add origin https://github.com/tiagogomes187/aulagithub.git
 $ git push -u origin main
 $ git remote -v
+</p>
 
 
 ## Gerar uma nova chave SSH
