@@ -4,24 +4,24 @@ https://www.youtube.com/watch?v=HrMb2oZgujE&list=PLNuUvBZGBA8nDTr8QRMgoT_l3XNt_B
 
 ## Passos para configuração do git.
 <p>
-$ git init <br />
-$ git config --global user.name "Tiago Gomes"
-$ git config --global user.email "tiagogomes187@gmail.com"
-$ git --list
-$ git config --list
-$ git add .
-$ git status
-$ git commit -m "Criadas páginas index e vendas"
-$ git log
-$ git add .
-$ git commit -m "Acrecentado valor das vendas"
-$ echo "# aulagithub" >> README.md
-$ git add README.md
-$ git commit -m "Adcionei o README."
-$ git branch -M main
-$ git remote add origin https://github.com/tiagogomes187/aulagithub.git
-$ git push -u origin main
-$ git remote -v
+$ git init <br/>
+$ git config --global user.name "Tiago Gomes"<br/>
+$ git config --global user.email "tiagogomes187@gmail.com"<br/>
+$ git --list<br/>
+$ git config --list<br/>
+$ git add .<br/>
+$ git status<br/>
+$ git commit -m "Criadas páginas index e vendas"<br/>
+$ git log<br/>
+$ git add .<br/>
+$ git commit -m "Acrecentado valor das vendas"<br/>
+$ echo "# aulagithub" >> README.md<br/>
+$ git add README.md<br/>
+$ git commit -m "Adcionei o README."<br/>
+$ git branch -M main<br/>
+$ git remote add origin https://github.com/tiagogomes187/aulagithub.git<br/>
+$ git push -u origin main<br/>
+$ git remote -v<br/>
 </p>
 
 
@@ -51,8 +51,3 @@ Digite uma frase secreta segura no prompt. Para obter mais informações, consul
 
 > Enter passphrase (empty for no passphrase): [Type a passphrase]
 > Enter same passphrase again: [Type passphrase again]
-
-
-
-
-
